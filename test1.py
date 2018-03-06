@@ -1,1 +1,1 @@
-import xgboost
+print('Hello World')
